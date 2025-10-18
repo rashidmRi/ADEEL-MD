@@ -2,7 +2,7 @@ const { cmd } = require("../command");
 const fetch = require("node-fetch");
 const yts = require("yt-search");
 
-// 🎵 YouTube Audio Downloader with Thumbnail & Title
+// 🎵 YouTube Audio Downloader with Thumbnail & Title + ADEEL-MD Tag
 cmd({
   pattern: "play",
   alias: ["song", "mp3"],
@@ -35,7 +35,7 @@ cmd({
     // 🔹 Send video details first (thumbnail + title)
     await conn.sendMessage(from, {
       image: { url: videoInfo.thumbnail },
-      caption: `🎵 *Title:* ${videoInfo.title}\n👁️ *Views:* ${videoInfo.views}\n📅 *Published:* ${videoInfo.ago}\n🔗 *Link:* ${videoUrl}\n\n⏳ *Downloading audio...*`
+      caption: `🎵 *Title:* ${videoInfo.title}\n👁️ *Views:* ${videoInfo.views}\n📅 *Published:* ${videoInfo.ago}\n🔗 *Link:* ${videoUrl}\n\n⏳ *Downloading audio...*\n\n🪄 *𝐀𝐃𝐄𝐄𝐋-𝐌𝐃*`
     }, { quoted: msg });
 
     // Fetch audio using API
