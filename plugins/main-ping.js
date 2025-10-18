@@ -4,7 +4,7 @@ const { cmd, commands } = require('../command');
 // Array of different fancy text styles for ADEEL-MD
 const botNameStyles = [
     "𝘈𝘋𝘌𝘌𝘓-𝘔𝘋",
-    "𝚂𝙳𝙴𝙴𝙻-𝙼𝙳",
+    "𝘼𝘿𝙀𝙀𝙇-𝙈𝘿",
     "🅰🅳🅴🅴🅻-🅼🅳",
     "🄰🄳🄴🄴🄻-🄼🄳",
     "𝔸𝔻𝔼𝔼𝕃-𝕄𝔻",
