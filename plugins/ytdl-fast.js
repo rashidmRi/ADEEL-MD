@@ -13,42 +13,42 @@ cmd({
 }, async (conn, msg, args, { from, q, reply }) => {
   try {
     if (!q) {
-      return reply("براہ کرم یوٹیوب لنک یا سرچ لکھیں۔\n\nمثال: .play Pasoori");
+      return reply("Please provide a YouTube link or search query.\n\nExample: .play Pasoori");
     }
 
     let videoUrl, videoInfo;
 
-    // اگر لنک دیا گیا ہو
+    // If user provides a direct YouTube link
     if (q.includes("youtube.com") || q.includes("youtu.be")) {
       videoUrl = q;
       videoInfo = (await yts({ videoId: videoUrl.split("v=")[1] || videoUrl })).videos[0];
     } else {
-      // سرچ رزلٹ سے پہلی ویڈیو لو
+      // Otherwise, search for the video
       let search = await yts(q);
       if (!search || !search.videos || search.videos.length === 0) {
-        return reply("کوئی نتیجہ نہیں ملا۔");
+        return reply("No results found.");
       }
       videoInfo = search.videos[0];
       videoUrl = videoInfo.url;
     }
 
-    // 🔹 پہلے ویڈیو کی معلومات شو کرو (thumbnail + title)
+    // 🔹 Send video details first (thumbnail + title)
     await conn.sendMessage(from, {
       image: { url: videoInfo.thumbnail },
       caption: `🎵 *Title:* ${videoInfo.title}\n👁️ *Views:* ${videoInfo.views}\n📅 *Published:* ${videoInfo.ago}\n🔗 *Link:* ${videoUrl}\n\n⏳ *Downloading audio...*`
     }, { quoted: msg });
 
-    // 🔗 پھر آڈیو حاصل کرو
+    // Fetch audio using API
     let res = await fetch(`https://gtech-api-xtp1.onrender.com/api/audio/yt?apikey=APIKEY&url=${encodeURIComponent(videoUrl)}`);
     let data = await res.json();
 
     if (!data.status) {
-      return reply("آڈیو حاصل کرنے میں ناکامی ہوئی۔");
+      return reply("Failed to fetch audio.");
     }
 
     let { audio_url } = data.result.media;
 
-    // 🎧 اب آڈیو بھیجنا
+    // 🎧 Send the audio file
     await conn.sendMessage(from, {
       audio: { url: audio_url },
       mimetype: "audio/mpeg",
@@ -56,7 +56,7 @@ cmd({
     }, { quoted: msg });
 
   } catch (err) {
-    reply("❌ آڈیو حاصل کرنے میں خرابی ہوئی۔");
+    reply("❌ Error while fetching audio.");
     console.log(err);
   }
 });
