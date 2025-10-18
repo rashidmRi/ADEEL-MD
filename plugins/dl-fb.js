@@ -10,32 +10,36 @@ cmd({
   use: "<Facebook URL>",
 }, async (conn, m, store, { from, args, q, reply }) => {
   try {
-    // Check if a URL is provided
+    // Check if a valid Facebook URL is provided
     if (!q || !q.startsWith("http")) {
-      return reply("*`Need a valid Facebook URL`*\n\nExample: `.fb https://www.facebook.com/...`");
+      return reply("*❌ Please provide a valid Facebook video link!*\n\nExample: `.fb https://www.facebook.com/...`");
     }
 
-    // Add a loading react
-    await conn.sendMessage(from, { react: { text: '⏳', key: m.key } });
+    // React loading emoji
+    await conn.sendMessage(from, { react: { text: "⏳", key: m.key } });
 
-    // Fetch video URL from the API
-    const apiUrl = `https://fb-down.apis-bj-devs.workers.dev/?url=${encodeURIComponent(q)}`;
+    // Working API (HD + Fast)
+    const apiUrl = `https://api.nyx.my.id/dl/fb?url=${encodeURIComponent(q)}`;
     const { data } = await axios.get(apiUrl);
 
-    // Check if the API response is valid
-    if (!data.status || !data.data || !data.data.url) {
-      return reply("❌ Failed to fetch the video. Please try another link.");
+    // Validate response
+    if (!data || !data.result || !data.result.url) {
+      return reply("❌ Couldn't fetch the video. Try another Facebook link.");
     }
 
-    // Send the video to the user
-    const videoUrl = data.data.url;
+    const videoUrl = data.result.url;
+
+    // Send the video
     await conn.sendMessage(from, {
       video: { url: videoUrl },
-      caption: "📥 *Facebook Video Downloaded*\n\n- *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅᴇᴇʟ-ᴍᴅ 🤍*",
+      caption: "📥 *Facebook Video Downloaded Successfully*\n\n- *© 𝐀𝐃𝐄𝐄𝐋-𝐌𝐃 🤍*"
     }, { quoted: m });
 
+    // React success emoji
+    await conn.sendMessage(from, { react: { text: "✅", key: m.key } });
+
   } catch (error) {
-    console.error("Error:", error); // Log the error for debugging
-    reply("❌ Error fetching the video. Please try again.");
+    console.error("Error:", error.message);
+    reply("❌ Error fetching the video. Please try again later.");
   }
 });
