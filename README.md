@@ -2,6 +2,12 @@
   
 ______
 
+<p align="center">
+  <img src="https://files.catbox.moe/hg5hj6.jpg" width="400" alt="Adeel MD DP" style="border-radius:20px; box-shadow:0 0 20px rgba(255,0,150,0.5);">
+</p>
+
+______
+
 [![Adeel](https://raw.githubusercontent.com/ADEEL967MD/ADEEL-MD/main/Adeel/mr.svg)](https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C)
 ___ 
 
