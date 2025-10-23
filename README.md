@@ -1,70 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ADEEL-MD PAGE</title>
-  <style>
-    body {
-      background-color: black;
-      color: white;
-      text-align: center;
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    img {
-      border-radius: 20px;
-      margin-top: 20px;
-    }
-    .container {
-      width: 70%;
-      margin: 0 auto;
-      text-align: center;
-    }
-    .section {
-      background: rgba(255, 255, 255, 0.1);
-      padding: 20px;
-      border-radius: 15px;
-      margin: 20px 0;
-    }
-    .title {
-      font-size: 28px;
-      font-weight: bold;
-      margin-bottom: 15px;
-    }
-    a {
-      color: #00ffff;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+![WELLCOME](Adeel/wellcome.svg)
+  
+______
 
-  <h1>🌟 WELLCOME EVERYONE 🌟</h1>
+[![Adeel](https://raw.githubusercontent.com/ADEEL967MD/ADEEL-MD/main/Adeel/mr.svg)](https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C)
+___ 
 
-  <!-- Adeel's DP -->
-  <img src="https://files.catbox.moe/hg5hj6.jpg" width="400" alt="Adeel DP">
+<p align="center">
+  <a href="https://github.com/ADEEL967MD" target="_blank">
+    <img src="https://files.catbox.moe/hg5hj6.jpg" alt="Adeel DP" width="400" style="border-radius: 20px; margin-top: 20px;">
+  </a>
+</p>
 
-  <div class="container">
-    <!-- Pair Section -->
-    <div class="section">
-      <div class="title">🤝 Pair System</div>
-      <p>Pair system Adeel-MD کے تمام یوزرز کے لیے دستیاب ہے۔</p>
-      <a href="#">Open Pair Page</a>
-    </div>
+---
 
-    <!-- Deploy Section -->
-    <div class="section">
-      <div class="title">🚀 Deploy Section</div>
-      <p>اپنے بوٹ کو آسانی سے deploy کریں۔</p>
-      <a href="#">Open Deploy Page</a>
-    </div>
-  </div>
+<div align="center" style="width:70%; margin:auto;">
 
-</body>
-</html>
+  <h2>🤝 Pair System</h2>
+  <p>Pair system for Adeel-MD users.</p>
+  <a href="https://adeel-md-pair-4dc19a2c57b9.herokuapp.com/" target="_blank" style="color:#00ffff; font-weight:bold; text-decoration:none;">Open Pair Page</a>
+
+  <br><br>
+
+  <h2>🚀 Deploy Section</h2>
+  <p>Deploy your bot easily using the official method.</p>
+  <a href="https://dashboard.heroku.com/new-app?template=https://github.com/ADEEL967MD/ADEEL-MD" target="_blank" style="color:#00ffff; font-weight:bold; text-decoration:none;">Open Deploy Page</a>
+
+</div>
+
+---
+
+<p align="center">
+  <b>© 2025 ADEEL-MD | All Rights Reserved</b>
+</p>
