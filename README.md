@@ -24,14 +24,16 @@ ___
 
 --------------
 
-<!-- 🟢 Pair Code + Heroku (Top Section | Final Size: Pair 100%, Heroku 98%) -->
+<!-- 🟥 Pair Code + Heroku Section (Pair = Red 100%, Heroku = 98%) -->
 <div align="center">
   <table width="100%">
     <tr>
       <td align="center" width="50%">
         <a href="https://adeel-md-pair-4dc19a2c57b9.herokuapp.com/" target="_blank">
-          <img src="./Adeel/paircode-link.svg" width="100%" alt="PAIR_CODE – Device Session ID">
+          <img src="./Adeel/paircode-link.svg" width="100%" alt="PAIR_CODE – Device Session ID" style="filter: hue-rotate(-50deg) saturate(200%) brightness(1.2);">
         </a>
+        <br>
+        <b style="color:red; font-size:18px;">🔗 PAIR CODE LINK</b>
       </td>
       <td align="center" width="50%">
         <a href="https://dashboard.heroku.com/new-app?template=https://github.com/ADEEL967MD/ADEEL-MD" target="_blank">
