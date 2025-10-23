@@ -47,23 +47,13 @@ ___
 <p align="center">
 <img src="Adeel/maintenance.svg" alt="Maintenance" width="120"/>
 
-<!-- ✅ Only Heroku deployment kept -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://dashboard.heroku.com/new-app?template=https://github.com/ADEEL967MD/ADEEL-MD" target="_blank">
-          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://adeel.lovestoblog.com/" target="_blank">
-          <img src="https://img.shields.io/badge/official-site-A52A2A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
+ <p align="center">
+  <a href="https://github.com/ADEEL967MD/ADEEL-MD/fork" target="_blank">
+    <img src="Adeel/forkstar-holo.svg" width="180" alt="Fork Star Bot Repo"/>
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://adeel-md-pair-4dc19a2c57b9.herokuapp.com/" target="_blank">
@@ -76,6 +66,18 @@ ___
 <p align="center">
   <img src="./Adeel/deployment.svg" width="600" alt="ADEEL MD — News Ticker Typing">
 </p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://dashboard.heroku.com/new-app?template=https://github.com/ADEEL967MD/ADEEL-MD" target="_blank">
+          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 -------------
 
