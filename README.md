@@ -1,53 +1,52 @@
-![WELLCOME](Adeel/wellcome.svg)
-  
-______
-
 <p align="center">
-  ADEEL DP
+  <img src="https://files.catbox.moe/hg5hj6.jpg" alt="ADEEL-MD" width="1000"/>
 </p>
 
-[![Adeel](https://raw.githubusercontent.com/ADEEL967MD/ADEEL-MD/main/Adeel/mr.svg)](https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C)
-___ 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=⚡+ADEEL-MD+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀" alt="ADEEL-MD Animated Banner" />
+</h1>
+
+---
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C" target="_blank">
-    Bot Updating — WhatsApp Channel | Join Fast
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Adeel967MD/ADEEL-MD">
+    <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku"/>
+  </a>
+  <a href="https://frozen-brushlands-95505-4cc48e92a77d.herokuapp.com/">
+    <img src="https://img.shields.io/badge/Get%20Pair%20Code-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Pair Code"/>
   </a>
 </p>
 
----------
+---
+
+## 📱 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ADEEL967MD/ADEEL-MD" title="PUBLIC-BOT">Language: JavaScript</a> &nbsp; | &nbsp;
-  Views: ADEEL-MD
+  <a href="https://chat.whatsapp.com/Lgzkk6HHuZICvYFMigyFrZ?mode=ems_copy_t">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C">
+    <img src="https://img.shields.io/badge/WhatsApp%20Channel-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
---------------
+---
 
-<!-- 🔴 Pair Code + Heroku Section (Pair = Red, 100% | Heroku = 98%) -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://adeel-md-pair-4dc19a2c57b9.herokuapp.com/" target="_blank" style="color:red; font-size:20px;">
-          PAIR_CODE – Device Session ID
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://dashboard.heroku.com/new-app?template=https://github.com/ADEEL967MD/ADEEL-MD" target="_blank" style="font-size:19px;">
-          Heroku Deploy
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+## ⚡ About ADEEL-MD
 
---------------
+> **ADEEL-MD** is a next-gen WhatsApp Multi-Device bot built with  
+> powerful features, blazing fast responses and stylish design.
 
-<p align="center">v5.0.0</p>
-<p align="center">License</p>
-<p align="center">Maintenance</p>
+### ✨ Features:
+- 🚀 Fast & Secure  
+- 🤖 AI Chatbot Support  
+- 🎵 Song Search + Lyrics  
+- 🖼 Auto-Stickers & Reactions  
+- 🔗 Anti-Link + Auto Moderation  
+- ⚡ And Much More...  
 
--------------
+---
 
-**_ FREE DEPLOYMENT OF ADEEL MD GITHUB WORKFLOW CODE NEW ADD ERROR FIXED ✠_**
+<p align="center">
+  <b>© Powered By ADEEL-MD 🤖</b>
+</p>
