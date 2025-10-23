@@ -1,61 +1,75 @@
+<!-- 🌈 WELCOME SECTION -->
 ![WELLCOME](Adeel/wellcome.svg)
-  
-______
 
-<p align="center">
-  <img src="https://files.catbox.moe/hg5hj6.jpg" width="350" alt="Adeel DP">
-</p>
+______
 
 [![Adeel](https://raw.githubusercontent.com/ADEEL967MD/ADEEL-MD/main/Adeel/mr.svg)](https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C)
 ___ 
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C" target="_blank">
-    <img src="./Adeel/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
+  <a href="https://github.com/ADEEL967MD" target="_blank">
+    <img src="https://raw.githubusercontent.com/ADEEL967MD/ADEEL-MD/main/Adeel/adeelmd.svg" alt="ADEEL-MD" width="100%"/>
   </a>
 </p>
 
----------
-
+<!-- ⚙️ BUTTON SECTION -->
 <p align="center">
-<a href="https://github.com/ADEEL967MD/ADEEL-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=JavaScript&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ADEEL-MD&label=VIEWS&style=square&color=blue" />
+  <a href="https://pair-your-bot-link" target="_blank">
+    <img src="Adeel/pair.svg" alt="Pair" width="100%"/>
+  </a>
 </p>
 
--------------
+<p align="center">
+  <a href="https://deploy-on-heroku-link" target="_blank">
+    <img src="Adeel/heroku.svg" alt="Heroku" width="100%"/>
+  </a>
+</p>
 
 <p align="center">
-<img src="Adeel/feature-bot.svg" alt="Feature Bot" width="900"/>
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
+
+> 🔔 Stay Connected For Updates Feature Drops And Tutorials!
+
+<a href="https://youtube.com/@adeel-md-bot?si=ZVANSbKM0yajAbl_" target="_blank">
+  <img src="Adeel/youtube.svg" alt="YouTube" width="250"/>
+</a>
 
 <p align="center">
-<img src="Adeel/v5.0.0.svg" alt="v5.0.0" width="100"/>
-  
-<p align="center">
-<img src="Adeel/license.svg" alt="License" width="200"/>
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
+</p>
 
---------------
+## ⚠️ _WARNING !_
 
-<p align="center">
-<img src="Adeel/maintenance.svg" alt="Maintenance" width="120"/>
-
-<!-- ✅ Only Pair & Heroku Section — Side by Side (70%) -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://adeel-md-pair-4dc19a2c57b9.herokuapp.com/" target="_blank">
-          <img src="./Adeel/paircode-link.svg" width="70%" alt="PAIR_CODE – Device Session ID">
-        </a>
-      </td>
-      <td>
-        <a href="https://dashboard.heroku.com/new-app?template=https://github.com/ADEEL967MD/ADEEL-MD" target="_blank">
-          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF" width="70%" alt="Heroku Deploy">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
+  <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
+  <p style="color: #ffffff;">This Bot Is Not Affiliated With WhatsApp Inc. Use At Your Own Risk Misuse May Result In Account Bans</p>
 </div>
 
--------------
+<div align="center">
+  <p align="center">
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+  </p>
+  <a href="https://github.com/ADEEL967MD">
+    <img src="https://github-readme-stats.vercel.app/api?username=ADEEL967MD&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  </a>
+</div>
 
-**_ FREE DEPLOYMENT OF ADEEL MD GITHUB WORKFLOW CODE NEW ADD ERROR FIXED ✠_**
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/ADEEL967MD/ADEEL-MD/graphs/contributors)
+
+<p align="center">
+  <a href="https://github.com/ADEEL967MD/ADEEL-MD/stargazers">
+    <img src="http://reporoster.com/stars/dark/ADEEL967MD/ADEEL-MD" alt="Stars">
+  </a>
+  <a href="https://github.com/ADEEL967MD/ADEEL-MD/network/members">
+    <img src="http://reporoster.com/forks/dark/ADEEL967MD/ADEEL-MD" alt="Forks">
+  </a>
+</p>
+
+<p align="center">
+  <img src="Adeel/nolove.svg" alt="NoLove" width="250"/>
+</p>
