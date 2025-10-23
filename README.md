@@ -9,8 +9,6 @@ ______
 [![Adeel](https://raw.githubusercontent.com/ADEEL967MD/ADEEL-MD/main/Adeel/mr.svg)](https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C)
 ___ 
 
-
-  
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C" target="_blank">
     <img src="./Adeel/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
@@ -23,7 +21,6 @@ ___
 <a href="https://github.com/ADEEL967MD/ADEEL-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=JavaScript&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=ADEEL-MD&label=VIEWS&style=square&color=blue" />
 </p>
-
 
 -------------
 
