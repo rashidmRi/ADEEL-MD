@@ -38,18 +38,18 @@ ___
 <p align="center">
 <img src="Adeel/maintenance.svg" alt="Maintenance" width="120"/>
 
-<!-- ✅ Only Pair & Heroku Section — Side by Side (70%) -->
+<!-- ✅ Only Pair & Heroku Section — Side by Side (Bigger 85%) -->
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td>
+      <td align="center" width="50%">
         <a href="https://adeel-md-pair-4dc19a2c57b9.herokuapp.com/" target="_blank">
-          <img src="./Adeel/paircode-link.svg" width="70%" alt="PAIR_CODE – Device Session ID">
+          <img src="./Adeel/paircode-link.svg" width="85%" alt="PAIR_CODE – Device Session ID">
         </a>
       </td>
-      <td>
+      <td align="center" width="50%">
         <a href="https://dashboard.heroku.com/new-app?template=https://github.com/ADEEL967MD/ADEEL-MD" target="_blank">
-          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF" width="70%" alt="Heroku Deploy">
+          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF" width="85%" alt="Heroku Deploy">
         </a>
       </td>
     </tr>
