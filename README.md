@@ -24,28 +24,25 @@ ___
 
 --------------
 
-<!-- 🟢 Pair Code + Heroku (Top Section | Bigger 95%) -->
+<!-- 🟢 Pair Code + Heroku (Top Section | Final Size: Pair 100%, Heroku 98%) -->
 <div align="center">
   <table width="100%">
     <tr>
       <td align="center" width="50%">
         <a href="https://adeel-md-pair-4dc19a2c57b9.herokuapp.com/" target="_blank">
-          <img src="./Adeel/paircode-link.svg" width="95%" alt="PAIR_CODE – Device Session ID">
+          <img src="./Adeel/paircode-link.svg" width="100%" alt="PAIR_CODE – Device Session ID">
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://dashboard.heroku.com/new-app?template=https://github.com/ADEEL967MD/ADEEL-MD" target="_blank">
-          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF" width="95%" alt="Heroku Deploy">
+          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF" width="98%" alt="Heroku Deploy">
         </a>
       </td>
     </tr>
   </table>
 </div>
 
--------------
-
-<p align="center">
-<img src="Adeel/feature-bot.svg" alt="Feature Bot" width="900"/>
+--------------
 
 <p align="center">
 <img src="Adeel/v5.0.0.svg" alt="v5.0.0" width="100"/>
